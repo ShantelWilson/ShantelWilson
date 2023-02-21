@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**ShantelWilson/ShantelWilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ShantelWilson/ShantelWilson** is a ✨ _special_ ✨ Software Development/Machine Learning /Cyber Security)
 
 Here are some ideas to get you started:
 

@@ -8,8 +8,11 @@ Please don't hesitate to reach out and I look forward to connecting with you!
 
 <p align="left">
       <a href="https://shantelwilson.github.io/personal-portfolio/">
-         <img alt="Website" title="My Personal Website!" src="https://custom-icon-badges.demolab.com/?logo=web"/>
+         <img alt="Website" title="My Personal Website!" <img src="https://img.shields.io/badge/made%20with-python-blue.svg" alt="My wesbite!"/>
    </p>
+      
+      
+
       
    [![Shantel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShantelWilson&show_icons=true&theme=tokyonight)](https://github.com/ShantelWilson/github-readme-stats)
       

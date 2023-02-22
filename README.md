@@ -8,13 +8,10 @@ Please don't hesitate to reach out and I look forward to connecting with you!
 
 <p align="left">
       <a href="https://shantelwilson.github.io/personal-portfolio/">
-         <img alt="Website" title="My Personal Website!" src="https://custom-icon-badges.demolab.com/?logo=web"/></a> 
-      
-      <a href="https://github.com/ShantelWilson?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ShantelWilson?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ShantelWilson?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ShantelWilson?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="Website" title="My Personal Website!" src="https://custom-icon-badges.demolab.com/?logo=web"/>
    </p>
+      
+   [![Shantel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShantelWilson)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **`ShantelWilson/ShantelWilson** is a ✨ _special_ ✨ Software Development/Machine Learning /Cyber Security)`**

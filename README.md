@@ -6,14 +6,13 @@ I enjoy computer science because it's all about logic and innovation. I enjoy cr
 
 Please don't hesitate to reach out and I look forward to connecting with you!
 
-<p align="left">
-      
+
      <a href="https://shantelwilson.github.io/personal-portfolio/"> Check out My Personal Website!</a>
       <img src="https://i.pinimg.com/564x/24/14/7b/24147b4b810f7db3d79901f1527f187c.jpg" /></a>
 
       
 
-   </p>
+
       
 
              

@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a student at Prairie View A&M University majoring in computer science with a minor in math.
+
+I enjoy computer science because it's all about logic and innovation. I enjoy creating projects that can be appreciated and useful to others. I am eager to learn more about Machine Learning, Cyber Security, and Software Engineering. I enjoy working with others and can easily adapt to different environments.
+
+Please don't hesitate to reach out and I look forward to connecting with you!
+
 <!--
 **`ShantelWilson/ShantelWilson** is a ✨ _special_ ✨ Software Development/Machine Learning /Cyber Security)`**
 

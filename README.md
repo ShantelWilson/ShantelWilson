@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**ShantelWilson/ShantelWilson** is a ✨ _special_ ✨ Software Development/Machine Learning /Cyber Security)
+**`ShantelWilson/ShantelWilson** is a ✨ _special_ ✨ Software Development/Machine Learning /Cyber Security)`**
 
 Here are some ideas to get you started:
 

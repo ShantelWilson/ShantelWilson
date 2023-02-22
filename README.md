@@ -8,11 +8,11 @@ Please don't hesitate to reach out and I look forward to connecting with you!
 
 
 
-      <html>
-        Crafted with ❤️ by
+     
+<p align="left">
+       Crafted with ❤️ by
         <a href="https://shantelwilson.github.io/personal-portfolio/" target="_blank">Check out My Personal Website!</a>
-      </html>
-
+   </p>
  
 
              

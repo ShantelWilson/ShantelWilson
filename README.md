@@ -11,12 +11,12 @@ Please don't hesitate to reach out and I look forward to connecting with you!
              <a href="https://shantelwilson.github.io/personal-portfolio/" target="_blank">Check out My Personal Website!</a>
 <a href="https://shantelwilson.github.io/personal-portfolio/"><img src="https://i.pinimg.com/564x/24/14/7b/24147b4b810f7db3d79901f1527f187c.jpg" /></a>
 
-            
+       <a href="https://shantelwilson.github.io/personal-portfolio/">
+         <img alt="Website" title="My Personal Website!" img src="https://img.shields.io/badge/made%20with-python-blue.svg" alt="My Wesbite">           
 
    </p>
       
-      <a href="https://shantelwilson.github.io/personal-portfolio/">
-         <img alt="Website" title="My Personal Website!" img src="https://img.shields.io/badge/made%20with-python-blue.svg" alt="My Wesbite">
+
              
 
       

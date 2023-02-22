@@ -9,12 +9,13 @@ Please don't hesitate to reach out and I look forward to connecting with you!
 <p align="left">
       <a href="https://shantelwilson.github.io/personal-portfolio/">
          <img alt="Website" title="My Personal Website!" img src="https://img.shields.io/badge/made%20with-python-blue.svg" alt="My Wesbite">
+             <a href="https://shantelwilson.github.io/personal-portfolio/" target="_blank">My Personal Website</a>
+
             
 
    </p>
       
-              <a href="https://shantelwilson.github.io/personal-portfolio/" target="_blank">My Personal Website</a>
-
+             
 
       
    [![Shantel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShantelWilson&show_icons=true&theme=tokyonight)](https://github.com/ShantelWilson/github-readme-stats)

@@ -8,7 +8,7 @@ Please don't hesitate to reach out and I look forward to connecting with you!
 
 <p align="left">
       <a href="https://shantelwilson.github.io/personal-portfolio/">
-         <img alt="Website" title="My Personal Website!" <img src="https://img.shields.io/badge/made%20with-python-blue.svg" alt="My wesbite!"/>
+         <img alt="Website" title="My Personal Website!" img src="https://img.shields.io/badge/made%20with-python-blue.svg" alt="My wesbite!">
    </p>
       
       

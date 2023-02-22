@@ -11,7 +11,7 @@ Please don't hesitate to reach out and I look forward to connecting with you!
          <img alt="Website" title="My Personal Website!" src="https://custom-icon-badges.demolab.com/?logo=web"/>
    </p>
       
-   [![Shantel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShantelWilson)](https://github.com/ShantelWilson/github-readme-stats)
+   [![Shantel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShantelWilson&show_icons=true&theme=tokyonight)](https://github.com/ShantelWilson/github-readme-stats)
       
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShantelWilson)](https://github.com/ShantelWilson/github-readme-stats)
 

@@ -10,7 +10,7 @@ Please don't hesitate to reach out and I look forward to connecting with you!
       <a href="https://shantelwilson.github.io/personal-portfolio/">
          <img alt="Website" title="My Personal Website!" img src="https://img.shields.io/badge/made%20with-python-blue.svg" alt="My Wesbite">
             
-            <img src="https://img.shields.io/badge/this%20is-purple-503040.svg" alt="My Website">
+       ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)     
 
    </p>
       

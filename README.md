@@ -18,10 +18,7 @@ Please don't hesitate to reach out and I look forward to connecting with you!
              
 
       
-   [![Shantel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShantelWilson&show_icons=true&theme=tokyonight)](https://github.com/ShantelWilson/github-readme-stats)
-      
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShantelWilson)](https://github.com/ShantelWilson/github-readme-stats)
-
+  
 <!--
 **`ShantelWilson/ShantelWilson** is a ✨ _special_ ✨ Software Development/Machine Learning /Cyber Security)`**
 
